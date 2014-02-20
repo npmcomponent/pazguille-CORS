@@ -1,0 +1,12 @@
+{
+  "name": "pazguille-cors",
+  "description": "Simple and tiny CORS component",
+  "version": "0.1",
+  "keywords": [
+    "cors",
+    "ajax",
+    "domain"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}

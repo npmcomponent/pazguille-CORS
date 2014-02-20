@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [pazguille/cors](http://github.com/pazguille/cors). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/pazguille-cors`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # CORS Component
 
 The CORS is a componente that allows cross-domain communication from the browser. The modern browsers like Chrome, Firefox, Opera, Safari and Internet Explorer 10 use the XmlHttpRequest2 object. IE8+ uses the similar XDomainRequest object, which works in the same way as its XmlHttpRequest.
